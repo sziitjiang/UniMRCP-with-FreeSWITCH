@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../unimrcp-1.5.0/conf">
+   </FileRef>
+   <FileRef
+      location = "group:../unimrcp-1.5.0/libs">
+   </FileRef>
+   <FileRef
+      location = "group:../unimrcp-1.5.0/modules">
+   </FileRef>
+   <FileRef
+      location = "group:../unimrcp-1.5.0/plugins">
+   </FileRef>
+   <FileRef
       location = "self:UniMRCP-with-freeswitch.xcodeproj">
    </FileRef>
 </Workspace>
